@@ -8,3 +8,5 @@ if you hadn't download discord.py, dotenv make sure to download it in terminal.
 `pip install discord.py`                          to download discord.py
 
 `pip install python-dotenv`                       to download dotenv
+
+WARNING: make sure you have a .env file have TOKEN for bot token, CHAT_CHANNEL_ID for the channel you want your ai chat bot reply only in it, SRA_TOKEN for some-random-api website
